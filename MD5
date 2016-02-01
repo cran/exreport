@@ -1,4 +1,4 @@
-38466863a70ea1a8a5cb3a66f66c706f *DESCRIPTION
+f6a49ca4f626ded4bb900ba0916ec50c *DESCRIPTION
 84e9feb45bcebfbc3ba328b5a2612270 *NAMESPACE
 1b96911ce22a3377e164422e11009fe3 *R/class_exPlot.R
 8434f51cedd155ceb6ab6a27f2ca66e4 *R/class_exReport.R
@@ -39,9 +39,9 @@ f5e160dc18bca4c52898c0d84d808041 *R/utils_phMetric.R
 cec66fce6fae01d84b2d11ad6b358370 *R/utils_reportGenerator.R
 80edb34943a895ac76ee8ffac2088e91 *R/utils_statistics.R
 441cc61b8d7ce26580505643c37b0e0a *R/utils_strings.R
-025947a24b59f4bba92ef6cd48999544 *R/utils_tables.R
+37d9005b33556d58e4d7ebbabcccfde2 *R/utils_tables.R
 0dd309576eb4e07e79d53b86bdf8f3ab *R/utils_text.R
-aa94ccffe09ec9d8beeaa2f5329d08ce *README.md
+7dae9ccc8455329cd1f1fbaf090d6e60 *README.md
 ba822fe85228548261ce8adc9444adcb *data/wekaExperiment.rda
 555aefe19232b94a9a6ba1a651db1b72 *inst/extdata/htmlTemplates/assets/bootstrap.min.css
 8c237312864d2e4c4f03544cd4f9b195 *inst/extdata/htmlTemplates/assets/bootstrap.min.js
